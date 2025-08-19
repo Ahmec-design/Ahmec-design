@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🌱 I’m currently studying **C++**, **Python**, **Data Structures**, and **Databases**.  
-- 💼 Passionate about **Frontend Development** and **Computer Science**.  
+- 💼 Passionate about **Frontend Development** .  
 
 ---
 
