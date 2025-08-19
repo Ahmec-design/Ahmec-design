@@ -1,3 +1,8 @@
+
+<!-- Banner / صورة عن مطور ويب -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Developer" width="600"/>
+</p>
 # 👋 Hi, I'm Ahmed Wally  
 
 💻 **Frontend Developer** | 🎓 **Faculty of Artificial Intelligence**  
